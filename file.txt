@@ -1,0 +1,3 @@
+Vehicle{maxSpeed=100, mark='Audi'}
+Vehicle{maxSpeed=70, mark='Ford'}
+Vehicle{maxSpeed=120, mark='BMW'}
